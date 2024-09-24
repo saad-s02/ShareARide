@@ -1,2 +1,2 @@
 # ShareARide
-An Android Studio carpool app that has Google maps and Discord Rich Presence integrations.
+ShareARide is an Android application designed to connect students for carpooling. Built using Node.js and Express.js for the backend and Android Studio for the mobile client, the app features real-time location and route mapping through Google Maps integration. Firebase is used for user authentication and secure data storage, while Volley handles HTTP requests. Additionally, the app includes a unique Discord Rich Presence integration to enhance user interaction and engagement.
